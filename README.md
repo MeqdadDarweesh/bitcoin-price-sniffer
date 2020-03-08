@@ -1,6 +1,6 @@
 # Bitcoin Price Sniffer
 
-![Repo Banner - Bitcoin](images/Bitcoin)
+![Bitcoin](images/Bitcoin.jpg)
 
 ## What I did
 
