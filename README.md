@@ -9,10 +9,9 @@ Bitcoin price program using [CoinDesk](https://www.coindesk.com/coindesk-api) AP
 ## Output Sample
 
 ```bash
-The price in United States Dollar - USD: 8,683.1917
-Time of the price: ('Mar 8, 2020 14:23:00 UTC',)
+The price in United States Dollar - USD: 4,831.9167
+Time of the price: Mar 16, 2020 09:53:00 UTC
 ```
 
-_Note:_ You will get more results on your console, it's just for logging.
-
-### Meqdad
+### License
+[MIT](LICENSE)
